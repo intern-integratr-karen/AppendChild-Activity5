@@ -1,0 +1,12 @@
+
+.Container input {
+
+    padding: 5px;
+    margin: 3px;
+    display: inline;
+}
+
+button{
+    color: rgb(30, 33, 36);
+
+}
